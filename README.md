@@ -1,6 +1,9 @@
 # OpenCarbon
 Emissions reduction technologies and plans, primarily for carbon but all abundant greenhouse gases should also be covered.
 
+## Project Scope
+![TerraNexum - Business Flow Model - OpenCarbon](https://github.com/terranexum/OpenCarbon/assets/20586685/f5bca265-7dc6-47f6-8599-8b5e5cd91e10)
+
 ## The State of the Art in Direct Air Capture
 
 At present, DAC uses too much energy, and too much of that is still emissions-producing energy, for it to scale fast enough to remove even the hard-to-abate share (around 10%) of overall carbon emissions in the atmosphere.
