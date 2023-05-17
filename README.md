@@ -1,6 +1,8 @@
 # OpenCarbon
 Emissions reduction technologies and plans, primarily for carbon but all abundant greenhouse gases should also be covered.
 
+If this is of value to you, please consider supporting our work through [Open Collective](https://opencollective.com/terranexum/projects/opencarbon). 
+
 ## Project Scope
 ![TerraNexum - Business Flow Model - OpenCarbon](https://github.com/terranexum/OpenCarbon/assets/20586685/f5bca265-7dc6-47f6-8599-8b5e5cd91e10)
 
