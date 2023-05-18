@@ -11,7 +11,7 @@ Our goal is for our Core Contributors to each earn an equal share of 50% of the 
 ## Product Development Areas
 
 ### CarbonWall
-Heat and acoustic insulation for interior or exterior walls to achieve greater energy efficiency and thus savings on energy bills. 
+Heat and acoustic insulation for interior or exterior walls to achieve greater energy efficiency and thus savings on energy bills. Please find our [Project Plan](https://github.com/terranexum/OpenCarbon/blob/main/Project_Plan.md) here.
 
 Primary ingredients: biochar and calcium carbonate, both being among the most durable storage forms of CO2 sequestration possible. The biochar will be locally sourced from properties that desire fire mitigation, particularly along roadways to allow for safe egress in the event of a wildfire. The costs of tree cutting, chipping, and transportation to a local biochar production site will be reimbursed from the proceeds of CarbonWall sales, thus we will need to define a project area and ensure we have sufficient biochar and/or calcium carbonate tonnage to make enough CarbonWall panels at a competitive price point.
 
