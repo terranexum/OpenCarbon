@@ -1,7 +1,7 @@
-# Project Plan: CarbonWall Development
+# OpenCarbon Project Plan for CarbonWall
 
 ## Project Charter
-- Project Title: Fire Mitigation and Biochar Panel Development
+- Project Title: Fire Mitigation and CarbonWall Development
 - Project Manager: Dahl Winters
 - Project Start Date: June 1, 2023
 - Project End Date: August 31, 2023
