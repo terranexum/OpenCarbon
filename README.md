@@ -46,8 +46,30 @@ We also have a four-page report mentioned at the end of the above report that ou
 
 To receive a copy of this report, which contains original research and guidance to advance carbon removal, we ask for a contribution to aid our future R&D, which can be made from our [OpenCollective](https://opencollective.com/terranexum/projects/opencarbon) page.
 
-### Cyan v2 with the OpenAir Collective
+### Cyan v.2 with the OpenAir Collective
 
 This summer we have plans to update Cyan (OSHWA's first certified open hardware carbon removal device) to achieve true carbon negativity, given the still low availability of low-carbon calcium hydroxide and the inefficiencies in regenerating it. 
 
 We may design 3D printed molds that can be reused to pour multiple forms, so that Cyan containers can be easily built up from individual parts able to be sourced locally without the time or emissions of waiting for transportation.
+
+The candidate process we will be testing for Cyan v.2:
+
+#### CO2 Capture using Fine Calcium Hydroxide
+Ca(OH)2 (s) + CO2 (g) + humid air → CaCO3 (s) + H2O (l)
+
+This is the basic chemistry of Cyan v.1. Dust and eye/skin contact must always be avoided. Use appropriate PPE until  your Ca(OH)2 is confined in a closed container.
+
+#### CO2 Release by Rapid Reaction with HCl
+2 HCl (aq) + CaCO3 (s) → CaCl2 (aq) + H2O (l) + CO2 (g)
+
+For safety, the weakest possible solution of HCl should be used that will fully dissolve the calcium carbonate.
+
+#### Regeneration of Fine Calcium Hydroxide and Production of Iron(III) Chloride by Combining Calcium Chloride with Rust
+CaCl2 (aq) + Fe2O3 (s) → Ca(OH)2 (s) + 2FeCl3 (aq)
+
+This is basically ice melt + rust, but both may have many impurities if you're starting here instead of at Step 1 unless you find clean sources of calcium chloride and iron(III) oxide.
+
+#### Regeneration of HCl and Production of Iron Metal by Electrowinning Iron(III) Chloride (requires renewable electricity)
+Cathode: Fe deposition, Anode (Pt or Ti required): HCl (aq) production
+
+To get HCl (aq) and not Cl2 (g), the following are required: high Cl- concentration, high current density, low potential, low temp, slightly alkaline pH (via a suitable buffer or just more OH- ions)
