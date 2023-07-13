@@ -1,4 +1,6 @@
 # OpenCarbon
+Contributors: Shrila Esturi, Dahl Winters
+
 This repository contains our emissions reduction technologies and plans, primarily for carbon but all abundant greenhouse gases (especially CH4 and N2O) should ideally be covered as we get to these.
 
 We have three projects under OpenCarbon:
