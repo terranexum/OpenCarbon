@@ -4,9 +4,12 @@ Contributors: Shrila Esturi, Dahl Winters
 This repository contains our emissions reduction technologies and plans, primarily for carbon but all abundant greenhouse gases (especially CH4 and N2O) should ideally be covered as we get to these.
 
 We have three projects under OpenCarbon:
+* Cyan v.2 - upgrading the Cyan v.1, a tabletop direct air capture/carbon mineralization device supported by the OpenAir Collective, to add both sorbent regeneration and renewable energy capacity.
+*   [Research Articles](https://docs.google.com/document/d/1tiNw1ULPi5LnnHzu8MfO191W7D0tvZT35omd1AGcuAg/edit?pli=1)
+*   [Carbon Dioxide Efficiency Notes](https://docs.google.com/document/d/16Pm9bBRxzdapvCSMIK7pCczLLNHudUFGCbRwa-fBg48/edit?usp=sharing) 
 * CarbonWall - heat and acoustic insulation for interior or exterior walls to achieve greater energy efficiency and thus savings on energy bills. Our plan to get to market to sustain our contributors: [Project Plan](https://github.com/terranexum/OpenCarbon/blob/main/Project_Plan.md).
 * BioDAC - a patent-free, open-sourced nontoxic functionalized biochar sorbent for direct air capture.
-* Cyan v.2 - upgrading the Cyan v.1, a tabletop direct air capture/carbon mineralization device supported by the OpenAir Collective, to add both sorbent regeneration and renewable energy capacity.
+
 
 If the following work is of value to you, please consider supporting our work or joining as a Core Contributor through [Open Collective](https://opencollective.com/terranexum/projects/opencarbon). 
 
